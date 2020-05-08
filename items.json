@@ -1,0 +1,32 @@
+{
+  "0": {
+    "name": ":gun: Gun", 
+    "description": "KILL MASHINE",
+    "price": "1000"
+  },
+  "1": {
+    "name": ":dagger: Knife", 
+    "description": "Sweet knife for killing people",
+    "price": "400"
+  },
+  "2": {
+    "name": ":shield: Shield", 
+    "description": "He protec",
+    "price": "350"
+  },
+  "3": {
+    "name": ":martial_arts_uniform: Uniform", 
+    "description": "He protec too",
+    "price": "650"
+  },
+  "4": {
+    "name": ":pill: Pill", 
+    "description": "Heal yourself",
+    "price": "75"
+  },
+  "5": {
+    "name": ":cookie: Cookie", 
+    "description": "Cookiezi PoWeR-R-R!!",
+    "price": "50"
+  }
+}
